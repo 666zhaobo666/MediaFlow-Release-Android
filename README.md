@@ -1,2 +1,2 @@
-# Media-Flow-Release-Android
-Media-Flow-Release-Android
+# MediaFlow-Release-Android
+MediaFlow-Release-Android
